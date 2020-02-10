@@ -19,4 +19,4 @@ server.get('/api/hubs', (req, res) => {
 
 server.listen(port, () => {
     console.log(`API on port ${port}`);
-})
+})    
